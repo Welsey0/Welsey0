@@ -1,1 +1,1 @@
-Hi, I'm Wily (pronounced why-lee) and I am exploring the possibilities of programming. However, I am still in my starting phase. :)
+Hi, I'm Wily (pronounced why-lee) and I am exploring the possibilities of programming. My pronoun is he/him and I love computers! Wily, of course is not my real name, and I will not share my real name with the digital world. While I do hope to be a contibuting member of any community I join, I will not add anyone I do not know in real life as a "friend" in any online services I use. Thank you for reading my README!
